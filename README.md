@@ -14,3 +14,4 @@
 ## Screenshots
 ### Exercise B
 ![Exercise B final output](./Group13-ExerciseB.gif)
+
